@@ -101,7 +101,7 @@ const Navbar = () => {
       {isClicked.userProfile && <UserProfile />}
     </div>
     </div>
-  )
-}
+  );
+};
 
 export default Navbar
